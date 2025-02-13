@@ -1,0 +1,10 @@
+body{
+    background-color: blue;
+}
+.matn{
+    position: relative;
+    left: 240px;
+    background-color: white;
+    border-radius:  5px;
+    text-align: center;
+}
